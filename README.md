@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+Hi! I'm Ricardo,  a curious and adaptable learner with a strong interest in data science, artificial intelligence, and interdisciplinary projects.
+
+ <!--
 **RicardoHurtadoF/ricardohurtadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
