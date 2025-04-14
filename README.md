@@ -36,8 +36,6 @@ I enjoy working on real-world problems that combine logic, creativity, and impac
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHurtadoF&theme=darcula&hide_border=false&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=RicardoHurtadoF&theme=darcula&hide_border=false)
-
 ---
 
 ## 🌐 Connect with Me
