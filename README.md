@@ -2,7 +2,7 @@
 
 Hi! I'm **Ricardo**, a curious and adaptable learner passionate about **data science**, **artificial intelligence**, and **interdisciplinary projects**. I'm currently pursuing a degree in **Data Science** at *Pontificia Universidad Javeriana* (PUJ), Bogotá, Colombia.
 
-I enjoy working on real-world problems that combine logic, creativity, and impact. Whether it's analyzing environmental data, Machine Learning Proyects, or exploring the patterns & applying Data Analisis Abilities to my personal Interest like Music, Videogames, etc; I'm always eager to learn and experiment with new technologies.
+I enjoy working on real-world problems that combine logic, creativity, and impact. Whether it's analyzing and solving Real world problems, Machine Learning Proyects, or exploring the patterns & applying Data Analisis Abilities to my personal Interest like Music, Videogames, etc; I'm always eager to learn and experiment with new technologies.
 
 ---
 
