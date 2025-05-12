@@ -30,9 +30,9 @@ I enjoy working on real-world problems that combine logic, creativity, and impac
 
 ---
 
-## Certificados
+## Certications
 
-- [Curso de Coursera: *Nombre del curso*](https://coursera.org/share/821e2779ca55cad8f6b204a1492063ff)
+- [Getting Started with Azure](https://coursera.org/share/821e2779ca55cad8f6b204a1492063ff)
 
 ---
 
