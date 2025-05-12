@@ -30,6 +30,12 @@ I enjoy working on real-world problems that combine logic, creativity, and impac
 
 ---
 
+## Certificados
+
+- [Curso de Coursera: *Nombre del curso*](https://coursera.org/share/821e2779ca55cad8f6b204a1492063ff)
+
+---
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=RicardoHurtadoF&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
