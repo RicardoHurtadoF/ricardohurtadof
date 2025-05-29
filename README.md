@@ -34,7 +34,7 @@ I enjoy working on real-world problems that combine logic, creativity, and impac
 
 - [Getting Started with Azure](https://coursera.org/share/821e2779ca55cad8f6b204a1492063ff)
 - [AI ML with Deep Learning and Supervised Models Specialization](https://coursera.org/share/f9210c940d2ee32bb88d35597d904fd1)
-- [Keras Deep Learning & Generative Adversarial Networks (GAN) Specialization](  )
+- [Keras Deep Learning & Generative Adversarial Networks (GAN) Specialization](https://coursera.org/share/2bd9155b8b57c8cb63730ecbfc0043ab)
 - [Google Advanced Data Analytics Professional Certificate](  )
 
 ---
